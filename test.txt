@@ -3,3 +3,7 @@
 我在继续记笔记哇，哈哈
 
 嘎嘎
+
+import os
+import numpy
+print("hello python!")
